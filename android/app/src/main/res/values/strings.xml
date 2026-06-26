@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NeonVoid</string>
+    <string name="title_activity_main">NeonVoid</string>
+    <string name="package_name">com.neonvoid.app</string>
+    <string name="custom_url_scheme">com.neonvoid.app</string>
+</resources>
